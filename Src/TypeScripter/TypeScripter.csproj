@@ -6,13 +6,13 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <VersionPrefix>0.5.3</VersionPrefix>
     <Authors>Chris Powers</Authors>
-    <TargetFramework>netstandard1.5</TargetFramework>
+    <TargetFramework>net6</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>TypeScripter</AssemblyName>
     <PackageId>TypeScripter</PackageId>
     <PackageTags>TypeScript;Definitions</PackageTags>
     <PackageProjectUrl>http://cjlpowers.github.io/TypeScripter</PackageProjectUrl>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/cjlpowers/TypeScripter/master/LICENSE</PackageLicenseUrl>
+    <PackageLicense>https://raw.githubusercontent.com/cjlpowers/TypeScripter/master/LICENSE</PackageLicense>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>git://github.com/cjlpowers/TypeScripter</RepositoryUrl>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
