@@ -1,10 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <Description>TypeScripter is a .NET class library used to generate TypeScript definitions for .NET types.</Description>
     <AssemblyTitle>TypeScripter</AssemblyTitle>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <VersionPrefix>0.5.3</VersionPrefix>
+    <VersionPrefix>0.5.4</VersionPrefix>
     <Authors>Chris Powers</Authors>
     <TargetFramework>net6</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
